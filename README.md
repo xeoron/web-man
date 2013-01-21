@@ -14,8 +14,8 @@ Requirements
 =====
 Place wman.cgi into the servers cgi bin
 
-Place wman.html into your root html folder. It assumed that wman.cgi 
-this location ./bin/wman.cgi so adjust the code accordingly.
+Place wman.html into your root html folder. It assumes that wman.cgi's
+location is ./bin/wman.cgi so adjust the code accordingly.
 
 
 Tested On
