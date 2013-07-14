@@ -1,4 +1,4 @@
-#!/usr/bin/perl -T
+#!/usr/bin/perl -T      #use taint mode to protect searching for files outside of the website folders
 $ENV{PATH} = "/bin:/usr/bin";
 use CGI::Carp qw(fatalsToBrowser);  #redirect all fatal error messages to the browser
 # Xeoron's web-man version 0.3.1 beta 8/5/2004
